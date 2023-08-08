@@ -1,7 +1,5 @@
 import { audit } from '../e2e.js';
 
-/* global cy */
-
 // This is an extension of testing dynamic fragments. Property names are
 // CSS query selectors for the first matching element in the document.
 // - property name:  a dynamic page fragment to test with axe-core

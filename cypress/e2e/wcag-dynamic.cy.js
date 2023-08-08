@@ -1,7 +1,5 @@
 import { audit } from '../e2e.js';
 
-/* global cy */
-
 // Dynamic page fragments are declared with an object that takes
 // CSS query selectors as property names and values; only the
 // first matching element in the document is used.
